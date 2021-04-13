@@ -1,3 +1,8 @@
+# Ahmed Arafat
+# Business Information System
+# ahmedmoyousry.bis@gmail.com
+# 4-2021
+# Happy Ramadan <3
 import instaloader
 from PIL import ImageTk , Image
 import tkinter as tk 
